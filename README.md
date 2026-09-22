@@ -9,8 +9,8 @@ nothing to deploy. Push to `main` and the deck is live.
 ## Presenting a deck
 
 ```text
-https://slides.mightora.io/r/<owner>/speaking-decks/<deck-id>/presenter   # you
-https://slides.mightora.io/r/<owner>/speaking-decks/<deck-id>/follower    # the room
+https://slides.mightora.io/r/DuncanBoyne/speaking-decks/<deck-id>/presenter   # you
+https://slides.mightora.io/r/DuncanBoyne/speaking-decks/<deck-id>/follower    # the room
 ```
 
 The first slide in presenter mode shows a QR code and the follower URL. Put it up
@@ -93,15 +93,16 @@ Two standalone utilities need no deck at all:
    from `raw.githubusercontent.com`. Nothing client-confidential goes in here —
    no client names, data, screenshots or unreleased work.
 2. **Presenter mode needs a password set by the platform owner** (mightora /
-   Ian Tweedie), not by you. Get it before a session, and have a fallback.
+   Ian Tweedie), not by you. It is a shared third-party secret: keep it out of
+   this repo and out of any committed file. Have a fallback in case it rotates.
 3. **It needs the internet.** Both the platform and this repo are fetched live.
    Always carry an offline PDF or PPTX export.
 4. **Only `slides.md` works remotely.** `slides.html` is for decks hosted on the
    platform itself.
 5. **Use absolute URLs for images and video.** Relative paths resolve against
    slides.mightora.io, not this repo:
-   `https://raw.githubusercontent.com/<owner>/speaking-decks/main/decks/<deck-id>/hero.png`
-   (or the same path via `cdn.jsdelivr.net/gh/<owner>/speaking-decks@main/...`).
+   `https://raw.githubusercontent.com/DuncanBoyne/speaking-decks/main/decks/<deck-id>/hero.png`
+   (or the same path via `cdn.jsdelivr.net/gh/DuncanBoyne/speaking-decks@main/...`).
 6. **Design control is markdown-level.** Twelve stock themes plus per-slide
    backgrounds. For a deck that has to carry full brand typography and layout,
    the hand-authored HTML decks under `Desktop\My Everything else folder\

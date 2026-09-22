@@ -279,14 +279,16 @@ Stop talking and let them photograph it. Count to ten in your head. This is also
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #0b0b0d 0%, #2a0a0a 55%, #0b0b0d 100%)" -->
 ## Get the full prompt pack
 
-Every prompt from today, written out and ready to paste.
+Every prompt from today, written out and ready to paste:
 
-Connect on **LinkedIn** — that's where I post Power BI + AI workflows.
+## github.com/DuncanBoyne/AI-BI
 
-Message me **"prompt pack"** and I'll send it straight over.
+Prompts *and* the how-to guides. Free, no sign-up, no DM required.
+
+Connect on **LinkedIn** too — that's where I post Power BI + AI workflows.
 
 Notes:
-Send the link as a follower message now if you have not already — the overlay gives everyone an Open link button, which beats reading a URL out loud. Then take questions.
+Send this link as a follower message NOW from the Controls panel — the overlay gives everyone an Open link button, which beats reading a URL out loud or asking them to DM you. Then take questions with this slide up.
 
 ---
 
