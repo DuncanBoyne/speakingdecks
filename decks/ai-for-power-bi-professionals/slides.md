@@ -1,9 +1,12 @@
 <!-- .slide: data-background-gradient="linear-gradient(135deg, #0b0b0d 0%, #2a0a0a 55%, #0b0b0d 100%)" -->
-# AI for Power BI Professionals
-
-### The prompt pack that actually makes *you* better at your job
-
-Duncan Boyne — Power BI Consultant / AI Strategist
+<div class="r-hstack" style="align-items:center; gap:30px">
+<div style="flex:1; text-align:left">
+<h1 style="font-size:2.1em">AI for Power BI Professionals</h1>
+<h3>The prompt pack that actually makes <em>you</em> better at your job</h3>
+<p>Duncan Boyne — Power BI Consultant / AI Strategist</p>
+</div>
+<img src="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/ai-for-power-bi-professionals/img/duncan-headshot.png" alt="Duncan Boyne" style="height:470px; margin:0; border:0; box-shadow:none; background:none">
+</div>
 
 Notes:
 Hold this slide while people arrive — in presenter mode it shows the join QR code, so point at it and tell the room to scan if they want the slides on their own phone. Set expectations early: 30 minutes, live demo inside, and they leave with prompts they can paste on Monday.
@@ -292,11 +295,15 @@ Send this link as a follower message NOW from the Controls panel — the overlay
 
 ---
 
-# Thank you
-
-**Duncan Boyne** — Power BI Consultant / AI Strategist
-
-Please rate the session — 30 seconds, it genuinely helps.
+<div class="r-hstack" style="align-items:center; gap:30px">
+<div style="flex:1; text-align:left">
+<h1>Thank you</h1>
+<p><strong>Duncan Boyne</strong> — Power BI Consultant / AI Strategist</p>
+<p>Every prompt from today: <strong>github.com/DuncanBoyne/AI-BI</strong></p>
+<p style="font-size:0.8em">Please rate the session — 30 seconds, it genuinely helps.</p>
+</div>
+<img src="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/ai-for-power-bi-professionals/img/duncan-speaking.png" alt="Duncan Boyne speaking" style="height:520px; margin:0; border:0; box-shadow:none; background:none">
+</div>
 
 Notes:
 Leave this up through Q&A so your name stays on screen.
