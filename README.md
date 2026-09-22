@@ -9,8 +9,8 @@ nothing to deploy. Push to `main` and the deck is live.
 ## Presenting a deck
 
 ```text
-https://slides.mightora.io/r/DuncanBoyne/speaking-decks/<deck-id>/presenter   # you
-https://slides.mightora.io/r/DuncanBoyne/speaking-decks/<deck-id>/follower    # the room
+https://slides.mightora.io/r/DuncanBoyne/speakingdecks/<deck-id>/presenter   # you
+https://slides.mightora.io/r/DuncanBoyne/speakingdecks/<deck-id>/follower    # the room
 ```
 
 The first slide in presenter mode shows a QR code and the follower URL. Put it up
@@ -101,8 +101,8 @@ Two standalone utilities need no deck at all:
    platform itself.
 5. **Use absolute URLs for images and video.** Relative paths resolve against
    slides.mightora.io, not this repo:
-   `https://raw.githubusercontent.com/DuncanBoyne/speaking-decks/main/decks/<deck-id>/hero.png`
-   (or the same path via `cdn.jsdelivr.net/gh/DuncanBoyne/speaking-decks@main/...`).
+   `https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/<deck-id>/hero.png`
+   (or the same path via `cdn.jsdelivr.net/gh/DuncanBoyne/speakingdecks@main/...`).
 6. **Design control is markdown-level.** Twelve stock themes plus per-slide
    backgrounds. For a deck that has to carry full brand typography and layout,
    the hand-authored HTML decks under `Desktop\My Everything else folder\
