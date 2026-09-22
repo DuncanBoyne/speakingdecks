@@ -302,7 +302,7 @@ Send this link as a follower message NOW from the Controls panel — the overlay
 <p>Every prompt from today: <strong>github.com/DuncanBoyne/AI-BI</strong></p>
 <p style="font-size:0.8em">Please rate the session — 30 seconds, it genuinely helps.</p>
 </div>
-<img src="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/ai-for-power-bi-professionals/img/duncan-speaking.png" alt="Duncan Boyne speaking" style="height:520px; margin:0; border:0; box-shadow:none; background:none">
+<img src="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/ai-for-power-bi-professionals/img/duncan-shiftenter.jpg" alt="Duncan Boyne speaking at Shift+Enter 2026" style="height:540px; margin:0; border:0; border-radius:6px; box-shadow:none">
 </div>
 
 Notes:
