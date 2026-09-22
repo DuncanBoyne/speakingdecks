@@ -134,7 +134,7 @@ Close the loop back to the reframe: none of it replaced judgement, all of it rem
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/collabdays-2026/slides/20.png" data-background-size="contain" data-background-color="#060A0D" -->
 
 Notes:
-Leave the QR up and say the repo name once. If you're running the follower deck on slides.mightora.io, push the link to every phone now too.
+Leave the QR up and say the repo name once. Today's five prompts are linked at the top of the README, with the example material from the demo. The 22 longer prompts go deeper, including four for when an AI agent edits your PBIP files directly. If you're running the follower deck on slides.mightora.io, push the link to every phone now too.
 
 ---
 
