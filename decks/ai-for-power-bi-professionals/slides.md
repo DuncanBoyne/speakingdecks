@@ -3,7 +3,7 @@
 <div style="flex:1; text-align:left">
 <h1 style="font-size:2.1em">AI for Power BI Professionals</h1>
 <h3>The prompt pack that actually makes <em>you</em> better at your job</h3>
-<p>Duncan Boyne — Power BI Consultant / AI Strategist</p>
+<p style="font-size:0.75em">Duncan Boyne — Power BI Consultant / AI Strategist</p>
 </div>
 <img src="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/ai-for-power-bi-professionals/img/duncan-headshot.png" alt="Duncan Boyne" style="height:470px; margin:0; border:0; box-shadow:none; background:none">
 </div>
