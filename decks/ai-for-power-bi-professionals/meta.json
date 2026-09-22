@@ -1,0 +1,12 @@
+{
+  "title": "AI for Power BI Professionals",
+  "description": "The prompt pack that actually makes you better at your job. Five prompts for DAX, validation, refactoring, design and requirements - plus a live demo.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "gradient": "linear-gradient(135deg, #0b0b0d 0%, #1a1a1f 100%)"
+  }
+}
