@@ -1,0 +1,10 @@
+{
+  "title": "AI for Power BI Professionals - CollabDays Bletchley Park 2026",
+  "description": "The prompt pack that actually makes you better at your job. CollabDays Bletchley Park, 23 September 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": { "color": "#060A0D" }
+}

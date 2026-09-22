@@ -124,8 +124,14 @@ Two standalone utilities need no deck at all:
 
 | Deck id | Talk | Run at |
 | --- | --- | --- |
-| `ai-for-power-bi-professionals` | AI for Power BI Professionals: The Prompt Pack That Actually Makes You Better at Your Job | CollabDays Bletchley Park, 23 Sep 2026 |
+| `ai-for-power-bi-professionals` | AI for Power BI Professionals: The Prompt Pack That Actually Makes You Better at Your Job | Event-neutral version |
+| `collabdays-2026` | Same talk in the CollabDays 26 organiser template (slides rendered as full-bleed images) | CollabDays Bletchley Park, 23 Sep 2026 |
 
 Ported from `talk-deck.html` and deliberately event-neutral, so the same deck
 re-runs without edits. Conference-mandated brand slides (the ELUK ones in the
 original) are not in here — add them per event if the organiser requires them.
+
+`collabdays-2026` is generated, not hand-written: each slide of the branded PPTX
+is exported at 1920x1080 and used as a `contain` background image, so the room
+sees the organiser's template exactly. Rebuild the PPTX, re-export the PNGs into
+`decks/collabdays-2026/slides/`, and push.
