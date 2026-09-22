@@ -1,0 +1,8 @@
+# The platform matches separator lines exactly: "---" would merge every slide.
+* text=auto eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.png binary
+*.jpg binary
+*.svg text eol=lf
