@@ -3,7 +3,7 @@
 
 ### The prompt pack that actually makes *you* better at your job
 
-Duncan Boyne — Power BI consultant & trainer
+Duncan Boyne — Power BI Consultant / AI Strategist
 
 Notes:
 Hold this slide while people arrive — in presenter mode it shows the join QR code, so point at it and tell the room to scan if they want the slides on their own phone. Set expectations early: 30 minutes, live demo inside, and they leave with prompts they can paste on Monday.
@@ -294,7 +294,7 @@ Send this link as a follower message NOW from the Controls panel — the overlay
 
 # Thank you
 
-**Duncan Boyne** — Power BI consultant & trainer
+**Duncan Boyne** — Power BI Consultant / AI Strategist
 
 Please rate the session — 30 seconds, it genuinely helps.
 
