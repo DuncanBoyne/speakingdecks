@@ -1,0 +1,12 @@
+{
+  "title": "Good Design Wins Adoption - SQLDay Lite 2026",
+  "description": "The visual design theory behind reports people actually use. SQLDay Lite, Gdansk, 25 September 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#324147"
+  }
+}

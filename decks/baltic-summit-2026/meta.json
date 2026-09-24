@@ -1,0 +1,10 @@
+{
+  "title": "Dashboard in a Day? Nah. Let's Do One in 45 Minutes. - Baltic Summit 2026",
+  "description": "Live Power BI build against the clock, racing an AI. Baltic Summit, Gdynia, 26 September 2026.",
+  "published": true,
+  "theme": "white",
+  "autoFragment": false,
+  "defaultBackground": {
+    "color": "#E4E4E4"
+  }
+}

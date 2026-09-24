@@ -126,6 +126,7 @@ Two standalone utilities need no deck at all:
 | --- | --- | --- |
 | `ai-for-power-bi-professionals` | AI for Power BI Professionals: The Prompt Pack That Actually Makes You Better at Your Job | Event-neutral version |
 | `collabdays-2026` | Same talk in the CollabDays 26 organiser template (slides rendered as full-bleed images) | CollabDays Bletchley Park, 23 Sep 2026 |
+| `sqlday-lite-2026` | Good Design Wins Adoption, in the SQLDay Lite 2026 organiser template (slides as full-bleed JPEGs) | SQLDay Lite, Gdansk, 25 Sep 2026 |
 
 Ported from `talk-deck.html` and deliberately event-neutral, so the same deck
 re-runs without edits. Conference-mandated brand slides (the ELUK ones in the
