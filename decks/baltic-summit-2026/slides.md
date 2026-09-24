@@ -2,6 +2,8 @@
 
 <div data-interaction-results data-auto="true" data-code="follower" data-countdown="2026-09-26T09:00:00+02:00" data-countdown-label="Session starts in"></div>
 
+<style>#welcome .ai-display, #welcome .ai-display-side { height: auto !important; max-height: none !important; overflow: visible !important; }</style>
+
 Notes:
 Up while the room fills. People scan the code to join, then answer where they have travelled from, and the word cloud builds live. Read a few out before you start.
 
