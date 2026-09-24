@@ -1,3 +1,12 @@
+<!-- .slide: id="welcome" data-interaction="travel-from" data-background-color="#E4E4E4" -->
+
+<div data-interaction-results data-auto="true" data-code="follower" data-countdown="2026-09-26T09:00:00+02:00" data-countdown-label="Session starts in"></div>
+
+Notes:
+Up while the room fills. People scan the code to join, then answer where they have travelled from, and the word cloud builds live. Read a few out before you start.
+
+---
+
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/baltic-summit-2026/slides/01.png" data-background-size="contain" data-background-color="#E4E4E4" -->
 
 Notes:

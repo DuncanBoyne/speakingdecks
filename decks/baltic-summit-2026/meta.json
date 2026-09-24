@@ -6,5 +6,12 @@
   "autoFragment": false,
   "defaultBackground": {
     "color": "#E4E4E4"
-  }
+  },
+  "interactions": [
+    {
+      "id": "travel-from",
+      "type": "wordcloud",
+      "question": "Where are you travelling from?"
+    }
+  ]
 }
