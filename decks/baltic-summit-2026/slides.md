@@ -86,6 +86,17 @@ Left is my build from the ShiftEnter run in Budapest; flip to Desktop for today'
 
 ---
 
+<!-- .slide: id="who-wins" data-interaction="who-wins" data-background-color="#E4E4E4" -->
+
+<div data-interaction-results data-auto="true" data-code="follower"></div>
+
+<style>#who-wins .ai-display, #who-wins .ai-display-side { height: auto !important; max-height: none !important; overflow: visible !important; }</style>
+
+Notes:
+Phones out: vote for my build or the AI's. Votes can be changed, so give it thirty seconds, then read the result and ask a couple of people why they voted the way they did - that's the real answer.
+
+---
+
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/baltic-summit-2026/slides/12.png" data-background-size="contain" data-background-color="#E4E4E4" -->
 
 Notes:

@@ -12,6 +12,16 @@
       "id": "travel-from",
       "type": "wordcloud",
       "question": "Where are you travelling from?"
+    },
+    {
+      "id": "who-wins",
+      "type": "poll",
+      "question": "Who wins?",
+      "options": [
+        "Duncan's build",
+        "The AI's build"
+      ],
+      "allowVoteChanges": true
     }
   ]
 }
