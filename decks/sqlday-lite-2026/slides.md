@@ -15,7 +15,7 @@ Thirty seconds, no more. The point is the last line: everything in this talk cam
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/03.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Don't explain yet. Ask the room what's actually different - same data, same audience. Their answer is the outline for the next 40 minutes.
+Don't explain yet. Ask the room what's actually different - same data, same audience. Their answer is the outline for the next 40 minutes. Both are real Power BI pages on the same model: identical numbers, £518M against a £490M target.
 
 ---
 
@@ -120,7 +120,7 @@ Part 3: hierarchy. The order of operations matters: structure first, colour last
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/18.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Same KPI, twice. If the grey one doesn't already tell you where to look, colour won't rescue it.
+The same Power BI page twice: Report A from the cold open with the colour taken out. Ask where the eye lands on the grey one. The headline, the three numbers, then the trend. The hierarchy was already there, and colour just confirms it.
 
 ---
 
@@ -190,74 +190,88 @@ The detail gradient from Part 1, named. Walk it top-left to bottom-right.
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/28.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Every KPI card, four parts, no exceptions. Without a target, the value can't answer 'is this good?'
+The wireframe from the last slide, built. Walk the three zones in reading order: three KPIs with targets, one trend with a sentence for a title, then the detail at the bottom right.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/29.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Name each one, then say what to use instead.
+Every KPI card, four parts, no exceptions. Without a target, the value can't answer 'is this good?'
 
---
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/30.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Name each one, then say what to use instead.
+Name each one, then say what to use instead. Every crop is from Report B in the cold open.
 
----
+--
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/31.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Switch to Power BI Desktop. Leave the checklist slide up next if the room needs a map.
+Name each one, then say what to use instead. Every crop is from Report B in the cold open.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/32.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-The five passes, in order. Do them out loud, one at a time, on a real report.
+Switch to Power BI Desktop. Leave the checklist slide up next if the room needs a map.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/33.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Say it slowly. This is the line you want repeated in the corridor.
+The five passes, in order. Do them out loud, one at a time, on a real report.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/34.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Tell them to photograph this one.
+The payoff, or the fallback if the live fix goes sideways: Report B from the cold open, and the same model after the five passes. Same numbers. Nothing was added, only taken away and put in order. Demo file: C:\dev\good-design-demo\Amber-Coast.pbip (Before and After pages).
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/35.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Everything here is on the cheat sheet and in these six.
+Say it slowly. This is the line you want repeated in the corridor.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/36.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-One light ask, then move on. UK Community Awards: Community Rising Star, and NPPUG for Best User Group. ESPC Inspire on the right.
+Tell them to photograph this one.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/37.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
-Leave this up through Q&A.
+Everything here is on the cheat sheet and in these six.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/38.jpg" data-background-size="contain" data-background-color="#324147" -->
+
+Notes:
+One light ask, then move on. UK Community Awards: Community Rising Star, and NPPUG for Best User Group. ESPC Inspire on the right.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/39.jpg" data-background-size="contain" data-background-color="#324147" -->
+
+Notes:
+Leave this up through Q&A.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/40.jpg" data-background-size="contain" data-background-color="#324147" -->
 
 Notes:
 Organiser's closing slide.
