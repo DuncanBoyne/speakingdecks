@@ -82,7 +82,7 @@ Start the timer. Power BI Desktop, train.xlsx, go.
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/baltic-summit-2026/slides/11.png" data-background-size="contain" data-background-color="#E4E4E4" -->
 
 Notes:
-Left is my build from the ShiftEnter run in Budapest; flip to Desktop for today's. Right is the AI's build in today's palette. Hands up for left, hands up for right. Then ask why: that's the real answer.
+Left is my build, in the Baltic palette and zloty. Right is the AI's build in today's palette. Hands up for left, hands up for right. Then ask why: that's the real answer.
 
 ---
 
