@@ -5,10 +5,12 @@ Timing: 0:00 – 2:00 Pacing note: Advance to this slide, then hold for 5–8 se
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/pbimcr-2026/slides/02.jpg" data-background-size="contain" data-background-color="#161619" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/shared/about-dark.jpg" data-background-size="contain" data-background-color="#161619" -->
 
 Notes:
-Timing: 2:00 – 3:30 Speaker Notes: "I'm [name]. I build Power BI solutions — primarily for manufacturing and professional services businesses, but also anywhere someone has data they don't fully understand yet. My job description, as I've come to define it: I'm a storyteller of my customers' data. I take numbers. I find a narrative. I build dashboards that communicate that story clearly to the people who need it. [pause] Which sounds elegant. And often it is. Until the story you thought you were telling turns out to be... not quite the right one. [pause] This is the story of one of those projects."
+Quick one on who I am. Boyne Business Intelligence is my consultancy. Tugger is where I work on AI strategy. NPPUG and the East of England Summit are the community side.
+
+From the original speaker slide: Timing: 2:00 – 3:30 Speaker Notes: "I'm [name]. I build Power BI solutions — primarily for manufacturing and professional services businesses, but also anywhere someone has data they don't fully understand yet. My job description, as I've come to define it: I'm a storyteller of my customers' data. I take numbers. I find a narrative. I build dashboards that communicate that story clearly to the people who need it. [pause] Which sounds elegant. And often it is. Until the story you thought you were telling turns out to be... not quite the right one. [pause] This is the story of one of those projects."
 
 ---
 

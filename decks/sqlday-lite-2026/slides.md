@@ -5,10 +5,12 @@ Hold this while the room fills. The whole talk is one claim: good design wins ad
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/sqlday-lite-2026/slides/02.jpg" data-background-size="contain" data-background-color="#324147" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/shared/about-light.jpg" data-background-size="contain" data-background-color="#FAF9F7" -->
 
 Notes:
-Thirty seconds, no more. The point is the last line: everything in this talk came from watching the same pattern repeat in front of real boards and real teams.
+Quick one on who I am. Boyne Business Intelligence is my consultancy. Tugger is where I work on AI strategy. NPPUG and the East of England Summit are the community side.
+
+From the original speaker slide: Thirty seconds, no more. The point is the last line: everything in this talk came from watching the same pattern repeat in front of real boards and real teams.
 
 ---
 

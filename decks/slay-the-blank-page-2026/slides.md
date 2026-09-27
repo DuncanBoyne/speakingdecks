@@ -5,10 +5,10 @@ Notes:
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/slay-the-blank-page-2026/slides/02.jpg" data-background-size="contain" data-background-color="#121212" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/shared/about-light.jpg" data-background-size="contain" data-background-color="#FAF9F7" -->
 
 Notes:
--
+Quick one on who I am. Boyne Business Intelligence is my consultancy. Tugger is where I work on AI strategy. NPPUG and the East of England Summit are the community side.
 
 ---
 

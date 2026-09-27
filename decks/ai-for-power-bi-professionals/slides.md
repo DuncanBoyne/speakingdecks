@@ -13,6 +13,13 @@ Hold this slide while people arrive — in presenter mode it shows the join QR c
 
 ---
 
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/shared/about-dark.jpg" data-background-size="contain" data-background-color="#161619" -->
+
+Notes:
+Quick one on who I am. Boyne Business Intelligence is my consultancy. Tugger is where I work on AI strategy. NPPUG and the East of England Summit are the community side.
+
+---
+
 ## What this is
 
 This is **not** "AI will change everything."

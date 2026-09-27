@@ -5,10 +5,12 @@ COVER. Walk in, pause, let the room settle. "This is a talk about a decision. No
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/pbibrum-2026/slides/02.jpg" data-background-size="contain" data-background-color="#0E0E0E" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/shared/about-dark.jpg" data-background-size="contain" data-background-color="#161619" -->
 
 Notes:
-SECTION TITLE · THE WALL. Don't dwell. "Every Power BI developer has a moment. Someone asks for something. The data is right. The model is clean. And the tool just... won't."
+Quick one on who I am. Boyne Business Intelligence is my consultancy. Tugger is where I work on AI strategy. NPPUG and the East of England Summit are the community side.
+
+From the original speaker slide: SECTION TITLE · THE WALL. Don't dwell. "Every Power BI developer has a moment. Someone asks for something. The data is right. The model is clean. And the tool just... won't."
 
 ---
 

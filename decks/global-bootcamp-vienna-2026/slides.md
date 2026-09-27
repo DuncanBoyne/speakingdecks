@@ -5,10 +5,12 @@ Notes:
 
 ---
 
-<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/global-bootcamp-vienna-2026/slides/02.jpg" data-background-size="contain" data-background-color="#FFFFFF" -->
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/shared/about-light.jpg" data-background-size="contain" data-background-color="#FAF9F7" -->
 
 Notes:
-You're welcome to add a cover photo to make your introduction more personal and uniquely yours!
+Quick one on who I am. Boyne Business Intelligence is my consultancy. Tugger is where I work on AI strategy. NPPUG and the East of England Summit are the community side.
+
+From the original speaker slide: You're welcome to add a cover photo to make your introduction more personal and uniquely yours!
 
 ---
 

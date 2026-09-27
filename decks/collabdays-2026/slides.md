@@ -12,6 +12,13 @@ Mandatory sponsor acknowledgement slide. Please retain it in the final session d
 
 ---
 
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/shared/about-dark.jpg" data-background-size="contain" data-background-color="#161619" -->
+
+Notes:
+Quick one on who I am. Boyne Business Intelligence is my consultancy. Tugger is where I work on AI strategy. NPPUG and the East of England Summit are the community side.
+
+---
+
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/collabdays-2026/slides/03.png" data-background-size="contain" data-background-color="#060A0D" -->
 
 Notes:
