@@ -1,0 +1,12 @@
+{
+  "title": "Dashboard in a Day? Nah. Let's Do One in 45 Minutes. - Global Power Platform Bootcamp Vienna 2026",
+  "description": "Live Power BI build from brief to executive dashboard. Global Power Platform Bootcamp, Austrian edition, Vienna, 20 February 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#FFFFFF"
+  }
+}

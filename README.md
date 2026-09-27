@@ -127,6 +127,16 @@ Two standalone utilities need no deck at all:
 | `ai-for-power-bi-professionals` | AI for Power BI Professionals: The Prompt Pack That Actually Makes You Better at Your Job | Event-neutral version |
 | `collabdays-2026` | Same talk in the CollabDays 26 organiser template (slides rendered as full-bleed images) | CollabDays Bletchley Park, 23 Sep 2026 |
 | `sqlday-lite-2026` | Good Design Wins Adoption, in the SQLDay Lite 2026 organiser template (slides as full-bleed JPEGs) | SQLDay Lite, Gdansk, 25 Sep 2026 |
+| `baltic-summit-2026` | Dashboard in a Day? Nah. Let's Do One in 45 Minutes. | Baltic Summit, Gdynia, 26 Sep 2026 |
+| `shiftenter-2026` | Dashboard in a Day? Nah. Let's Do One in 45 Minutes. | Shift+Enter Summit, Budapest, 4 Sep 2026 |
+| `pbimcr-2026` | Can Someone Turn the Heating On? | Fabric & Power BI Manchester User Group, 25 Jun 2026 |
+| `experts-live-uk-2026` | Design Before DAX: Wireframing Better Power BI Dashboards | Experts Live UK, London, 12 Jun 2026 |
+| `pbibrum-2026` | When Native Visuals Aren't Enough | Birmingham Power BI Meetup, 3 Jun 2026 |
+| `slay-the-blank-page-2026` | Slay the Blank Page: Designing with Claude | June 2026 |
+| `d365ppug-manchester-2026-03` | Dashboard in a Day? Nah. Let's Do One in 45 Minutes. | D365PPUG Manchester, Mar 2026 |
+| `global-bootcamp-vienna-2026` | Dashboard in a Day? Nah. Let's Do One in 45 Minutes. | Global Power Platform Bootcamp, Vienna, 20 Feb 2026 |
+| `what-why-when-where-how-power-bi-2025` | The What, Why, When, Where and How of Power BI | Jul 2025 |
+| `content-creation-linkedin-2025` | Content Creation and Getting Seen and Heard on LinkedIn | May 2025 |
 
 Ported from `talk-deck.html` and deliberately event-neutral, so the same deck
 re-runs without edits. Conference-mandated brand slides (the ELUK ones in the

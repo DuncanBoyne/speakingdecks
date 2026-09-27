@@ -1,0 +1,12 @@
+{
+  "title": "Design Before DAX: Wireframing Better Power BI Dashboards - Experts Live UK 2026",
+  "description": "Start with the UI/UX and the data will sing. Experts Live UK, London, 12 June 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#203864"
+  }
+}

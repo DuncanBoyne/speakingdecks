@@ -1,0 +1,12 @@
+{
+  "title": "Slay the Blank Page: Designing with Claude (2026)",
+  "description": "Using Claude to get from a blank page to a finished design. June 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#121212"
+  }
+}

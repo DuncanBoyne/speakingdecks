@@ -1,0 +1,12 @@
+{
+  "title": "When Native Visuals Aren't Enough - Birmingham Power BI Meetup 2026",
+  "description": "Advanced visual architecture in Power BI with Deneb. Birmingham Power BI Meetup, 3 June 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#0E0E0E"
+  }
+}

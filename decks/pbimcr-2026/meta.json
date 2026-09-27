@@ -1,0 +1,12 @@
+{
+  "title": "Can Someone Turn the Heating On? - Fabric & Power BI Manchester 2026",
+  "description": "A data investigation told as a story: two numbers, one company, and what the data was really saying. Fabric & Power BI Manchester User Group, 25 June 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#0E0E0E"
+  }
+}

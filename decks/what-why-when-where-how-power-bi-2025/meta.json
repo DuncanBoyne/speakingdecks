@@ -1,0 +1,12 @@
+{
+  "title": "The What, Why, When, Where and How of Power BI (2025)",
+  "description": "Making sense of data without crying into your spreadsheets. An introduction to Power BI, July 2025.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#313131"
+  }
+}

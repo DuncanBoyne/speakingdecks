@@ -1,0 +1,12 @@
+{
+  "title": "Dashboard in a Day? Nah. Let's Do One in 45 Minutes. - D365PPUG Manchester, March 2026",
+  "description": "Live Power BI build from brief to executive dashboard. D365 & Power Platform User Group, Manchester, March 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#FFFFFF"
+  }
+}
