@@ -1,0 +1,277 @@
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/01.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Hold this while the room fills. The whole talk is one claim: good design wins adoption better than any fancy feature - and it's backed by how eyes and brains work.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/02.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The organiser's sponsor slide. Thank the sponsors before you start - they're why the room, the food and the Wi-Fi exist.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/03.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Thirty seconds, no more. bbi is the day job, Tugger is AI strategy, NPPUG and the East of England Summit are the community side. Everything in this talk came from watching the same pattern repeat, live, in front of real boards and real teams.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/04.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The map. Four parts, and the last one ends with a live fix on a real Power BI report.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/05.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Don't explain yet. Ask the room what's actually different - same data, same audience. Their answer is the outline for the rest of the talk. Both are real Power BI pages on the same model: identical numbers, £518M against a £490M target.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/06.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The reframe the whole talk rests on. Pause after 'perception problem'.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/07.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Part 1: perception. Everything here happens before anyone consciously reads your report.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/08.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Point at the two rows: same four dots, different spacing, and the room reads one group versus four things before anyone counts.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/09.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Let them find the teal dots before you say anything. That's similarity doing the work.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/10.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Colin Ware's framework. Land the hawk line: one encoding at a time.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/11.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Let the room find it - it takes under a second. Then: a KPI card needs exactly one cue like this, not five competing for the same job.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/12.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Nielsen Norman Group eye-tracking. The takeaway is the detail gradient, which we'll come back to three times.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/13.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Contrast with the F. Clean summary views get a Z - which is exactly what a good exec page is.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/14.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Name it now, pay it off in Part 4: this is the 3-30-300 rule in disguise.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/15.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Part 2: colour. This deck is running the rule it's about to teach - count the teal.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/16.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Point out this deck obeys it: white and navy, with teal spent once per slide.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/17.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Same four numbers twice. Top row: the eye has nowhere to land. Bottom row: it lands on revenue.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/18.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Both swatches are the real ratios - 2.1:1 and 13.4:1 on white. Ask who can read the left one from the back row.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/19.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Part 3: hierarchy. The order of operations matters: structure first, colour last.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/20.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The same Power BI page twice: Report A from the cold open with the colour taken out. Ask where the eye lands on the grey one. The headline, the three numbers, then the trend. The hierarchy was already there, and colour just confirms it.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/21.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Two faces, one scale. This deck: Krona One for hierarchy, Calibri for reading.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/22.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Same chart. Everything that wasn't data came out, then one bar went back in with a job.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/23.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+stripe.com: Not a Power BI screen. Headline, sub-headline, body, in that order. Indigo spent exactly once, on the button that matters.
+
+--
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/24.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+linear.app: Dense, and still calm. Almost no chrome, gridlines or decoration left in it. Colour spent exactly once.
+
+--
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/25.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+apple.com: The grayscale test, at scale. One headline, one visual, one button. Billion-dollar restraint, same three rules.
+
+--
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/26.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+notion.com: Proximity, doing the organising. Four columns, colour-coded status, grouped before anyone reads a single card.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/27.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The bridge: none of those examples were Power BI screens, and none needed to be. The rules predate screens.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/28.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Part 4: the Power BI translation. Everything so far, on one canvas.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/29.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The detail gradient from Part 1, named. Walk it top-left to bottom-right.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/30.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The wireframe from the last slide, built. Walk the three zones in reading order: three KPIs with targets, one trend with a sentence for a title, then the detail at the bottom right.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/31.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Every KPI card, four parts, no exceptions. Without a target, the value can't answer 'is this good?'
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/32.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Name each one, then say what to use instead. Every crop is from Report B in the cold open.
+
+--
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/33.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Name each one, then say what to use instead. Every crop is from Report B in the cold open.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/34.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Switch to Power BI Desktop: C:\dev\good-design-demo\Amber-Coast.pbip, Before page. If the live fix goes sideways, skip to 'Same data, five passes later' (slide 36) - it shows the finished result.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/35.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The five passes, in order. Do them out loud, one at a time, on a real report.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/36.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+The payoff, or the fallback if the live fix goes sideways: Report B from the cold open, and the same model after the five passes. Same numbers. Nothing was added, only taken away and put in order.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/37.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Say it slowly. This is the line you want repeated in the corridor.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/38.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Tell them to photograph this one.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/39.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Everything here is on the cheat sheet and in these six.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/40.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Leave this up through Q&A.

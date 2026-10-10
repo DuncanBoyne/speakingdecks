@@ -1,0 +1,12 @@
+{
+  "title": "Good Design Wins Adoption - South Coast User Group 2026",
+  "description": "The visual design theory behind reports people actually use. South Coast User Group, Southampton, 23 October 2026.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "videoPlaybackRate": 1,
+  "videoBackgroundSize": "contain",
+  "defaultBackground": {
+    "color": "#0F2444"
+  }
+}
