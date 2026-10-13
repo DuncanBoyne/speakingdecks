@@ -1,0 +1,10 @@
+{
+  "title": "AI Can Build the Whole Report. Here's How.",
+  "description": "PBIMCR x Data Decoded MCR, 13 Oct 2026. A Power BI report built through AI from six business systems via Tugger, plus a Power BI report rebuilt as a Claude dashboard from one screenshot. The pipeline, the twelve things that broke, and what still needs your hands.",
+  "published": true,
+  "theme": "black",
+  "autoFragment": false,
+  "defaultBackground": {
+    "gradient": "linear-gradient(135deg, #0e0e10 0%, #161619 100%)"
+  }
+}
