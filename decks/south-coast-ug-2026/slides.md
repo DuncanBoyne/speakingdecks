@@ -211,67 +211,74 @@ The wireframe from the last slide, built. Walk the three zones in reading order:
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/31.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-Every KPI card, four parts, no exceptions. Without a target, the value can't answer 'is this good?'
+The same five passes on a Sage 200 Executive page, demo data. Design mock, real numbers from the pack. Three KPIs with last year and the gap, one trend titled with the answer, detail bottom right. Purple means 'this year, look here'; everything else is grey.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/32.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-Name each one, then say what to use instead. Every crop is from Report B in the cold open.
+Every KPI card, four parts, no exceptions. Without a target, the value can't answer 'is this good?'
 
---
+---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/33.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
 Name each one, then say what to use instead. Every crop is from Report B in the cold open.
 
----
+--
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/34.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-Switch to Power BI Desktop: C:\dev\good-design-demo\Amber-Coast.pbip, Before page. If the live fix goes sideways, skip to 'Same data, five passes later' (slide 36) - it shows the finished result.
+Name each one, then say what to use instead. Every crop is from Report B in the cold open.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/35.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-The five passes, in order. Do them out loud, one at a time, on a real report.
+Switch to Power BI Desktop: C:\dev\good-design-demo\Amber-Coast.pbip, Before page. If the live fix goes sideways, skip to 'Same data, five passes later' (slide 36) - it shows the finished result.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/36.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-The payoff, or the fallback if the live fix goes sideways: Report B from the cold open, and the same model after the five passes. Same numbers. Nothing was added, only taken away and put in order.
+The five passes, in order. Do them out loud, one at a time, on a real report.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/37.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-Say it slowly. This is the line you want repeated in the corridor.
+The payoff, or the fallback if the live fix goes sideways: Report B from the cold open, and the same model after the five passes. Same numbers. Nothing was added, only taken away and put in order.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/38.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-Tell them to photograph this one.
+Say it slowly. This is the line you want repeated in the corridor.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/39.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
-Everything here is on the cheat sheet and in these six.
+Tell them to photograph this one.
 
 ---
 
 <!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/40.jpg" data-background-size="contain" data-background-color="#0F2444" -->
+
+Notes:
+Everything here is on the cheat sheet and in these six.
+
+---
+
+<!-- .slide: data-background-image="https://raw.githubusercontent.com/DuncanBoyne/speakingdecks/main/decks/south-coast-ug-2026/slides/41.jpg" data-background-size="contain" data-background-color="#0F2444" -->
 
 Notes:
 Leave this up through Q&A.

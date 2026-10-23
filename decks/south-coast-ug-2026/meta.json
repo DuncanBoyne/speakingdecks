@@ -7,6 +7,6 @@
   "videoPlaybackRate": 1,
   "videoBackgroundSize": "contain",
   "defaultBackground": {
-    "color": "#0F2444"
+    "color": "#000000"
   }
 }
